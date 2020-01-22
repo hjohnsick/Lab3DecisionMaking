@@ -1,0 +1,11 @@
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Lab3DecisionMaking\Lab3DecisionMaking\bin\Debug\netcoreapp3.1\Lab3DecisionMaking.exe
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Lab3DecisionMaking\Lab3DecisionMaking\bin\Debug\netcoreapp3.1\Lab3DecisionMaking.deps.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Lab3DecisionMaking\Lab3DecisionMaking\bin\Debug\netcoreapp3.1\Lab3DecisionMaking.runtimeconfig.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Lab3DecisionMaking\Lab3DecisionMaking\bin\Debug\netcoreapp3.1\Lab3DecisionMaking.runtimeconfig.dev.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Lab3DecisionMaking\Lab3DecisionMaking\bin\Debug\netcoreapp3.1\Lab3DecisionMaking.dll
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Lab3DecisionMaking\Lab3DecisionMaking\bin\Debug\netcoreapp3.1\Lab3DecisionMaking.pdb
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Lab3DecisionMaking\Lab3DecisionMaking\obj\Debug\netcoreapp3.1\Lab3DecisionMaking.csprojAssemblyReference.cache
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Lab3DecisionMaking\Lab3DecisionMaking\obj\Debug\netcoreapp3.1\Lab3DecisionMaking.AssemblyInfoInputs.cache
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Lab3DecisionMaking\Lab3DecisionMaking\obj\Debug\netcoreapp3.1\Lab3DecisionMaking.AssemblyInfo.cs
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Lab3DecisionMaking\Lab3DecisionMaking\obj\Debug\netcoreapp3.1\Lab3DecisionMaking.dll
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Lab3DecisionMaking\Lab3DecisionMaking\obj\Debug\netcoreapp3.1\Lab3DecisionMaking.pdb
